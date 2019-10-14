@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using CM.Core.Entities;
 using CM.Infrastructure;
+using CM.Web.Models;
 
 namespace CM.Web.Controllers
 {
@@ -48,8 +49,9 @@ namespace CM.Web.Controllers
         // GET: Customers/Create
         public IActionResult Create()
         {
-            ViewData["DepartmentId"] = new SelectList(_context.Department, "Id", "Id");
-            return View();
+            var viewModel = new CustomerDepartmentViewModel { Departments = _context.Department.ToList() };
+
+            return View(viewModel);
         }
 
         // POST: Customers/Create
@@ -65,6 +67,7 @@ namespace CM.Web.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+
             ViewData["DepartmentId"] = new SelectList(_context.Department, "Id", "Id", customer.DepartmentId);
             return View(customer);
         }
@@ -82,8 +85,12 @@ namespace CM.Web.Controllers
             {
                 return NotFound();
             }
-            ViewData["DepartmentId"] = new SelectList(_context.Department, "Id", "Id", customer.DepartmentId);
-            return View(customer);
+
+            var viewModel = new CustomerDepartmentViewModel { Customer = customer, Departments = _context.Department.ToList() };
+
+            //ViewData["DepartmentId"] = new SelectList(_context.Department, "Id", "Id", customer.DepartmentId);
+
+            return View(viewModel);
         }
 
         // POST: Customers/Edit/5

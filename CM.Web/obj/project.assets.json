@@ -12577,11 +12577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samdizon\\Documents\\Visual Studio 2017\\Projects\\CM.Web\\CM.Web\\CM.Web.csproj",
+      "projectUniqueName": "C:\\Users\\samdizon\\Desktop\\Cm\\CM.Web\\CM.Web.csproj",
       "projectName": "CM.Web",
-      "projectPath": "C:\\Users\\samdizon\\Documents\\Visual Studio 2017\\Projects\\CM.Web\\CM.Web\\CM.Web.csproj",
+      "projectPath": "C:\\Users\\samdizon\\Desktop\\Cm\\CM.Web\\CM.Web.csproj",
       "packagesPath": "C:\\Users\\samdizon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samdizon\\Documents\\Visual Studio 2017\\Projects\\CM.Web\\CM.Web\\obj\\",
+      "outputPath": "C:\\Users\\samdizon\\Desktop\\Cm\\CM.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12600,8 +12600,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\samdizon\\Documents\\Visual Studio 2017\\Projects\\CM.Web\\CM.Infrastructure\\CM.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\samdizon\\Documents\\Visual Studio 2017\\Projects\\CM.Web\\CM.Infrastructure\\CM.Infrastructure.csproj"
+            "C:\\Users\\samdizon\\Desktop\\Cm\\CM.Infrastructure\\CM.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\samdizon\\Desktop\\Cm\\CM.Infrastructure\\CM.Infrastructure.csproj"
             }
           }
         }

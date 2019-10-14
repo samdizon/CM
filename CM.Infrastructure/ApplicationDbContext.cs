@@ -24,12 +24,21 @@ namespace CM.Infrastructure
 
         #region DbSets
         public DbSet<Customer> Customer { get; set; }
-        
+
         public DbSet<Department> Department { get; set; }
         #endregion
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Customer>()
+                .Property(c => c.Gender)
+                .HasConversion<string>();
+
+            modelBuilder.Entity<Department>().HasData(
+                new Department { Id = 1, Name = "Accounting" }, 
+                new Department { Id = 2, Name = "Finance"}
+                );
+
             base.OnModelCreating(modelBuilder);
         }
     }

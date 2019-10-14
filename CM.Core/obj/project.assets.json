@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samdizon\\Documents\\Visual Studio 2017\\Projects\\CM.Web\\CM.Core\\CM.Core.csproj",
+      "projectUniqueName": "C:\\Users\\samdizon\\Desktop\\Cm\\CM.Core\\CM.Core.csproj",
       "projectName": "CM.Core",
-      "projectPath": "C:\\Users\\samdizon\\Documents\\Visual Studio 2017\\Projects\\CM.Web\\CM.Core\\CM.Core.csproj",
+      "projectPath": "C:\\Users\\samdizon\\Desktop\\Cm\\CM.Core\\CM.Core.csproj",
       "packagesPath": "C:\\Users\\samdizon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samdizon\\Documents\\Visual Studio 2017\\Projects\\CM.Web\\CM.Core\\obj\\",
+      "outputPath": "C:\\Users\\samdizon\\Desktop\\Cm\\CM.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

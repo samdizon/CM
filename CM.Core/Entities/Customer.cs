@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using CM.Core.Enums;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CM.Core.Entities
 {
@@ -9,10 +10,11 @@ namespace CM.Core.Entities
     {
         public int Id { get; set; }
 
-        public string FirstName{ get; set; }
+        public string FirstName { get; set; }
 
         public string LastName { get; set; }
 
+        //[Column("Gender",TypeName = "nvarchar(10)")]
         public Gender Gender { get; set; }
 
         public Department Department { get; set; }

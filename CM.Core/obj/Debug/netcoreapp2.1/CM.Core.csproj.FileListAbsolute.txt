@@ -7,3 +7,12 @@ C:\Users\samdizon\Documents\Visual Studio 2017\Projects\CM.Web\CM.Core\obj\Debug
 C:\Users\samdizon\Documents\Visual Studio 2017\Projects\CM.Web\CM.Core\obj\Debug\netcoreapp2.1\CM.Core.dll
 C:\Users\samdizon\Documents\Visual Studio 2017\Projects\CM.Web\CM.Core\obj\Debug\netcoreapp2.1\CM.Core.pdb
 C:\Users\samdizon\Documents\Visual Studio 2017\Projects\CM.Web\CM.Core\obj\Debug\netcoreapp2.1\CM.Core.csprojAssemblyReference.cache
+C:\Users\samdizon\Desktop\Cm\CM.Core\bin\Debug\netcoreapp2.1\CM.Core.deps.json
+C:\Users\samdizon\Desktop\Cm\CM.Core\bin\Debug\netcoreapp2.1\CM.Core.dll
+C:\Users\samdizon\Desktop\Cm\CM.Core\bin\Debug\netcoreapp2.1\CM.Core.pdb
+C:\Users\samdizon\Desktop\Cm\CM.Core\obj\Debug\netcoreapp2.1\CM.Core.csprojAssemblyReference.cache
+C:\Users\samdizon\Desktop\Cm\CM.Core\obj\Debug\netcoreapp2.1\CM.Core.csproj.CoreCompileInputs.cache
+C:\Users\samdizon\Desktop\Cm\CM.Core\obj\Debug\netcoreapp2.1\CM.Core.AssemblyInfoInputs.cache
+C:\Users\samdizon\Desktop\Cm\CM.Core\obj\Debug\netcoreapp2.1\CM.Core.AssemblyInfo.cs
+C:\Users\samdizon\Desktop\Cm\CM.Core\obj\Debug\netcoreapp2.1\CM.Core.dll
+C:\Users\samdizon\Desktop\Cm\CM.Core\obj\Debug\netcoreapp2.1\CM.Core.pdb

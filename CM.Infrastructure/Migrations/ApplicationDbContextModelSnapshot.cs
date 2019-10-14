@@ -29,7 +29,8 @@ namespace CM.Infrastructure.Migrations
 
                     b.Property<string>("FirstName");
 
-                    b.Property<int>("Gender");
+                    b.Property<string>("Gender")
+                        .IsRequired();
 
                     b.Property<string>("LastName");
 
@@ -51,6 +52,11 @@ namespace CM.Infrastructure.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Department");
+
+                    b.HasData(
+                        new { Id = 1, Name = "Accounting" },
+                        new { Id = 2, Name = "Finance" }
+                    );
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>

@@ -12,3 +12,17 @@ C:\Users\samdizon\Documents\Visual Studio 2017\Projects\CM.Web\CM.Infrastructure
 C:\Users\samdizon\Documents\Visual Studio 2017\Projects\CM.Web\CM.Infrastructure\obj\Debug\netcoreapp2.1\CM.Infrastructure.csproj.CopyComplete
 C:\Users\samdizon\Documents\Visual Studio 2017\Projects\CM.Web\CM.Infrastructure\obj\Debug\netcoreapp2.1\CM.Infrastructure.dll
 C:\Users\samdizon\Documents\Visual Studio 2017\Projects\CM.Web\CM.Infrastructure\obj\Debug\netcoreapp2.1\CM.Infrastructure.pdb
+C:\Users\samdizon\Desktop\Cm\CM.Infrastructure\bin\Debug\netcoreapp2.1\CM.Infrastructure.deps.json
+C:\Users\samdizon\Desktop\Cm\CM.Infrastructure\bin\Debug\netcoreapp2.1\CM.Infrastructure.runtimeconfig.json
+C:\Users\samdizon\Desktop\Cm\CM.Infrastructure\bin\Debug\netcoreapp2.1\CM.Infrastructure.runtimeconfig.dev.json
+C:\Users\samdizon\Desktop\Cm\CM.Infrastructure\bin\Debug\netcoreapp2.1\CM.Infrastructure.dll
+C:\Users\samdizon\Desktop\Cm\CM.Infrastructure\bin\Debug\netcoreapp2.1\CM.Infrastructure.pdb
+C:\Users\samdizon\Desktop\Cm\CM.Infrastructure\bin\Debug\netcoreapp2.1\CM.Core.dll
+C:\Users\samdizon\Desktop\Cm\CM.Infrastructure\bin\Debug\netcoreapp2.1\CM.Core.pdb
+C:\Users\samdizon\Desktop\Cm\CM.Infrastructure\obj\Debug\netcoreapp2.1\CM.Infrastructure.csprojAssemblyReference.cache
+C:\Users\samdizon\Desktop\Cm\CM.Infrastructure\obj\Debug\netcoreapp2.1\CM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\samdizon\Desktop\Cm\CM.Infrastructure\obj\Debug\netcoreapp2.1\CM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\samdizon\Desktop\Cm\CM.Infrastructure\obj\Debug\netcoreapp2.1\CM.Infrastructure.AssemblyInfo.cs
+C:\Users\samdizon\Desktop\Cm\CM.Infrastructure\obj\Debug\netcoreapp2.1\CM.Infrastructure.csproj.CopyComplete
+C:\Users\samdizon\Desktop\Cm\CM.Infrastructure\obj\Debug\netcoreapp2.1\CM.Infrastructure.dll
+C:\Users\samdizon\Desktop\Cm\CM.Infrastructure\obj\Debug\netcoreapp2.1\CM.Infrastructure.pdb
